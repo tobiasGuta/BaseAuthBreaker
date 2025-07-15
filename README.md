@@ -73,5 +73,15 @@ Notes
 
 # Second Tool 
 
+```bash
+python detect_basicauth.py -u urls.txt 
+```
 <img width="765" height="108" alt="image" src="https://github.com/user-attachments/assets/331b1813-5aa2-49d6-88d7-104d342142ad" />
+
+```bash
+python detect_basicauth.py -u urls.txt -w discordwebhook
+```
+
+<img width="648" height="83" alt="image" src="https://github.com/user-attachments/assets/f65db7ad-87e3-4df2-a621-bf30e3f43077" />
+
 
