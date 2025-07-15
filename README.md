@@ -3,7 +3,7 @@ BaseAuthBreaker is a Python tool that brute forces Basic Authentication using ra
 
 # BaseAuthBreaker
 
-🔥 A no-frills Python Basic Authentication brute force tool designed for pentesters and bug bounty hunters.
+A no-frills Python Basic Authentication brute force tool designed for pentesters and bug bounty hunters.
 
 ---
 
@@ -12,7 +12,7 @@ BaseAuthBreaker is a Python tool that brute forces Basic Authentication using ra
 - Supports raw HTTP request files  
 - Works with proxies like Burp Suite (`--proxy` flag)  
 - Colorful, easy-to-read console output  
-- Lightweight and simple — focus on effectiveness
+- Lightweight and simple  focus on effectiveness
 
 ---
 
