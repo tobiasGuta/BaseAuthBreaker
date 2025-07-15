@@ -64,3 +64,9 @@ Notes
 -   Disabling SSL verification (`verify=False`) is intentional to work with Burp Suite's self-signed certs.
 
 -   Use responsibly.
+
+# Example
+
+<img width="1640" height="446" alt="image" src="https://github.com/user-attachments/assets/af9aba82-bae6-4c1c-94ec-ec5f2e32b4c7" />
+
+<img width="1695" height="372" alt="image" src="https://github.com/user-attachments/assets/8d977c8a-a05f-43ea-8fbf-863b87006082" />
